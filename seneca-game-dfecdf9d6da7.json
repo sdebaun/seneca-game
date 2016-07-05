@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seneca-game",
+  "private_key_id": "dfecdf9d6da7da7ded532ae09c260dcc860b1a16",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDf4Z83FtcMQuD8\nlC8uSaZBOlWNf3A2XmZWecs2SWZ824b1GujH7I85dIpIfPXhR0RumshbXulRO4sI\nyAIGKxamvs5HA6PcQEXia7DtduNoNBCHqf7lut2GjUmUSTPJhCP/gjcdYf+DyyRG\nUeQG8h2q1PVaEzcgN5g86iLvXwz3BJ0E6gh2+FeqsyfQzp3OVS7JxfD+YeuxG6XQ\nd2bs8nLsJB3eQB9KU4Lu6Q9tJ/myDtgLRYDMildcR+52uEWUbabiqkzgHDngfjzf\nLlsWPDX3obaeR5qMj91vGY5eEO7HG+7dQkrbXgHd2nwtCXBLM8WAPNbKEIIAOdf0\nJSQvb8O7AgMBAAECggEAQuMpqk/MmAEzLsMnBXFDlqFTBh9Y6yVw9c0VhXaQhCUi\nQQB1I6XtdID4/4c1/sRIEbN0wLeuhXKAq3L2B9m/vrmq71SLFDavqmH6TjgC4RMN\nDTsgyIn3vUdhAEiOjFpKVwAUb1bj/AApKkk1E04qxusxEmRDSADUHv7kyRdgzDup\ndMU6hfigYQ768SGJbmYiM6JhbKwc/EQ7/63SqYhxMClHalgM/Iq6CXm+CeTqdLV1\nFp4zu9rpfRH7ipGqfCNE0rcxe8Jkevhs1ZMbPBa+dSJiDY56QH70ZdPrqGmvwTCa\nh8xxTHk8NG6l+e8kMdzp9pJIovYzb1RBi+Ww00N+oQKBgQD48UFpVTjdjztBhvLq\nirkm1qj9+Q/RBDsYuraW/Nyv7Hdfy9SM0jDgmh8lCYOXA3pQjJpKkoIxvo1BlYZI\n9QlEEwPXi7+IV4iqukLsPSajzefjG+F3GAoGcrRdG69PsDUD5fM0LGKYCquk/WU6\nn2VLAq9phuGGtfxfEpfu43kpNQKBgQDmOnsvA8rLg397mT2fE+tOr6QFmVtkQQWt\n7e4tMa3B1xyCZ5GaC3aXZfII4kUX7S6uWfb2FQW5QR2q/V5FCDorMS+vtUW7PqGv\n4DNVILT+vFv2IbFLKbhz7DsgDH8dj7TR241PJ1btLSamioVuMUHZyNvVDuaEZWMQ\nLY0KtqXHLwKBgBptGeGBn3i9lK+/EJhfQ4pg7S2Qu+IXTeKxJ2Ld0tuGAaIUtCqC\nwZeGJNo8qVBlmR1l35cc+F8peDtHESs7f9FPJ3BBMILbr/FXtnT3hNuMpxoPwp5u\n2dmXYZgksTaHYQlZ5rhaIdk8AL6R+6X+d7U/wrk0DUrMlM7O3XwJf7olAoGADwOt\nWOmUZiVTQQpDXIZ+CAmoVr0jmqwq5Kbpq4Tb4hJXR6HdewBYYZNCb5XiD6dmLfSs\nCGxijSxT9PzFExdwQ7TXeUwHGikBfmjOsDSL2TkLfkfAOjikUNsNGA/4kkL29eCt\nnIXiQ2F4bdAG16LauotA2uo32laKWVm/Iv26Xf0CgYBvKhZsEhHamgSOP6Nixrp8\njoM+UleNw+oLm76SlA2EUkYC0jsKwrVhzHoBdl2pLBY2JGYiR/uW9pbNkCPorZpM\nn5wzgnXyC3kVz4v8VZdusg+j7zTt6DGbiRgGq2CjbqHsQvM51RN7bZ5v1rrZwIiR\n9r8kwixxUWaA5/+2l0lAeA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "seneca-game@appspot.gserviceaccount.com",
+  "client_id": "100630014979004310278",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seneca-game%40appspot.gserviceaccount.com"
+}
